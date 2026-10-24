@@ -44,7 +44,7 @@ He redactado una bio breve en inglés a partir de tu ORCID. Revísala en `index.
 
 ## 5. CV
 
-- [ ] **Docencia**: la pestaña Teaching muestra TAB y Bioestadística (UAB), y Data Visualization y Phylogenomics (UPC). ¿Sigues en la UPC? ¿Quito alguno o añado otras asignaturas?
+- [ ] **Docencia**: la pestaña Teaching muestra TAB y Bioestadística (UAB), y Data Visualization (UPC). ¿Sigues en la UPC? ¿Quito alguno o añado otras asignaturas?
 - [ ] **Licencia de los materiales docentes**: ahora tienen GPL (GPL-3.0; Data Visualization GPL-2.0), que está pensada para código. Para apuntes y diapositivas lo habitual es **Creative Commons**: CC BY 4.0 (reutilización libre citándote) o CC BY-NC-SA 4.0 (sin uso comercial y compartiendo igual). Una opción común es CC para el contenido y MIT/GPL para el código. ¿Cuál prefieres?
 - [ ] **Estancias** de investigación (p. ej. Helsinki con Isaac Salazar-Ciudad, Brighton con Adam Eyre-Walker…):
 - [ ] **Becas y premios** (FPI/FPU, Juan de la Cierva, Beatriu de Pinós, premios de tesis…):
