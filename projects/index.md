@@ -2,15 +2,14 @@
 title: Projects
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Research projects, software and resources
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Research projects I lead or take part in, and the bioinformatic tools and genomic resources I have helped develop.
 
-{% include tags.html tags="publication, resource, website" %}
+{% include tags.html tags="project, software, resource" %}
 
 {% include search-info.html %}
 

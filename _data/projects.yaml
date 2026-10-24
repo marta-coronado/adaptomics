@@ -1,47 +1,85 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+# research projects
+
+- title: URBANOMICS
+  subtitle: Principal Investigator · 2026–2027
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Dissecting the genomic basis of adaptation to urban environments in the _Culex pipiens_ mosquito.
   tags:
-    - resource
+    - project
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: CATick
+  subtitle: Principal Investigator · 2026–2028
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Genome assembly of tick species present in Catalonia.
   tags:
-    - resource
+    - project
 
-- title: Cool Tutorial
-  subtitle: a subtitle
+- title: Genomic Adaptation and Stress Responses in a Changing World
+  subtitle: Collaborator · 2025–2028
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: From mechanisms to resources. Led by M. Pilar García Guerreiro (UAB).
   tags:
-    - resource
-    - publication
+    - project
 
-- title: Cool Web App
-  subtitle: a subtitle
+- title: MelanogasterCTF Summer Camp
+  subtitle: Investigator · 2026–2028
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Funded by the Spanish Ministry of Science, Innovation and Universities. Led by Sònia Casillas (UAB).
+  tags:
+    - project
+    - outreach
+
+# software and resources
+
+- title: iMKT
+  subtitle: integrative McDonald and Kreitman test
+  group: featured
+  image: images/photo.jpg
+  link: https://doi.org/10.1093/nar/gkz372
+  description: Web server and R package to estimate the rate of adaptive evolution and the strength of purifying selection from population genomic data.
+  repo: marta-coronado/iMKT
   tags:
     - software
 
-- title: Cool Web Server
-  subtitle: a subtitle
+- title: DEST
+  subtitle: Drosophila Evolution over Space and Time
+  group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://dest.bio
+  description: A worldwide population genomics resource of _Drosophila melanogaster_, now expanded in DEST 2.0.
+  tags:
+    - resource
+
+- title: DrosOmics
+  subtitle: -omics browser for natural populations
+  image: images/photo.jpg
+  link: https://doi.org/10.1093/molbev/msad075
+  description: A browser to explore -omics variation across high-quality reference genomes from natural populations of _D. melanogaster_.
+  tags:
+    - resource
+
+- title: PopHumanScan
+  subtitle: catalog of human genome adaptation
+  image: images/photo.jpg
+  link: https://pophumanscan.uab.cat
+  description: An online catalog of regions of the human genome with signatures of natural selection.
+  tags:
+    - resource
+
+- title: PopHumanVar
+  subtitle: prioritization of adaptive variants
+  image: images/photo.jpg
+  link: https://doi.org/10.1093/nar/gkab925
+  description: An interactive application for the functional characterization and prioritization of adaptive genomic variants in humans.
+  tags:
+    - software
+
+- title: impMKT
+  subtitle: imputed McDonald and Kreitman test
+  image: images/photo.jpg
+  link: https://doi.org/10.1093/g3journal/jkac206
+  description: A straightforward correction of the McDonald and Kreitman test that significantly increases the number of positively selected genes detected.
   tags:
     - software

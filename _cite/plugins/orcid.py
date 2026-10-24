@@ -130,7 +130,13 @@ def main(entry):
                 source["title"] = title
             if publisher:
                 source["publisher"] = publisher
-            if date:
+            # prefer the actual publication date over record modification dates
+            pub_year = first(lambda s: get_safe(s, "publication-date.year.value", ""))
+            if pub_year:
+                pub_month = first(lambda s: get_safe(s, "publication-date.month.value", "")) or "01"
+                pub_day = first(lambda s: get_safe(s, "publication-date.day.value", "")) or "01"
+                source["date"] = f"{pub_year}-{pub_month}-{pub_day}"
+            elif date:
                 source["date"] = format_date(date)
             if link:
                 source["link"] = link
