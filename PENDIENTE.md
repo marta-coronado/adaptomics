@@ -14,7 +14,7 @@ Ahora todas las imágenes son las de la plantilla (`images/photo.jpg`, `images/b
 - [ ] **Foto tuya** (retrato, idealmente cuadrada) → página de inicio y perfil
 - [ ] **Imagen de cabecera/fondo** (`images/background.jpg`), p. ej. una foto de laboratorio, de moscas, un gráfico tuyo…
 - [ ] **Imágenes para las tarjetas de inicio**: Research, Projects, CV
-- [ ] **Imágenes para los proyectos/herramientas** (opcional): URBANOMICS (mosquito), CATick (garrapata), iMKT, DEST, DrosOmics, PopHumanScan, PopHumanVar, impMKT
+- [ ] **Imágenes para los proyectos/herramientas** (opcional): URBANOMICS (mosquito), CATick (garrapata), iMKT, DEST, DrosOmics, PopHumanScan
 - [ ] **Logo / icono** del sitio (`images/logo.svg`, `images/icon.png`), si quieres uno propio
 
 ## 2. Contacto
@@ -49,7 +49,7 @@ He redactado una bio breve en inglés a partir de tu ORCID. Revísala en `index.
 - [ ] **Becas y premios** (FPI/FPU, Juan de la Cierva, Beatriu de Pinós, premios de tesis…):
 - [ ] **Dirección de estudiantes** (TFG, TFM, tesis):
 - [ ] **Comunicaciones en congresos** destacadas, charlas invitadas:
-- [ ] **Divulgación/outreach** (MelanogasterCTF, Setmana de la Ciència, etc.):
+- [ ] **Divulgación/outreach** (Setmana de la Ciència, etc.):
 - [ ] **Revisora** de revistas, comités, gestión:
 - [ ] ¿Quieres un **PDF del CV** descargable? Pásamelo y lo enlazo.
 
@@ -57,7 +57,7 @@ He redactado una bio breve en inglés a partir de tu ORCID. Revísala en `index.
 
 - [ ] Revisa las fechas y tu rol en cada proyecto (sacados del Portal de Recerca UAB).
 - [ ] ¿Otros proyectos o software tuyos que añadir? ¿Quieres quitar alguno?
-- [ ] Webs de iMKT, PopHumanVar y DrosOmics: no respondían, así que enlazan al artículo. ¿Tienen URL activa?
+- [ ] Webs de iMKT y DrosOmics: no respondían, así que enlazan al artículo. ¿Tienen URL activa?
 
 ## 7. Otros
 

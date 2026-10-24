@@ -23,19 +23,10 @@
   tags:
     - project
 
-- title: MelanogasterCTF Summer Camp
-  subtitle: Investigator · 2026–2028
-  image: images/photo.jpg
-  description: Funded by the Spanish Ministry of Science, Innovation and Universities. Led by Sònia Casillas (UAB).
-  tags:
-    - project
-    - outreach
-
 # software and resources
 
 - title: iMKT
   subtitle: integrative McDonald and Kreitman test
-  group: featured
   image: images/photo.jpg
   link: https://doi.org/10.1093/nar/gkz372
   description: Web server and R package to estimate the rate of adaptive evolution and the strength of purifying selection from population genomic data.
@@ -67,19 +58,3 @@
   description: An online catalog of regions of the human genome with signatures of natural selection.
   tags:
     - resource
-
-- title: PopHumanVar
-  subtitle: prioritization of adaptive variants
-  image: images/photo.jpg
-  link: https://doi.org/10.1093/nar/gkab925
-  description: An interactive application for the functional characterization and prioritization of adaptive genomic variants in humans.
-  tags:
-    - software
-
-- title: impMKT
-  subtitle: imputed McDonald and Kreitman test
-  image: images/photo.jpg
-  link: https://doi.org/10.1093/g3journal/jkac206
-  description: A straightforward correction of the McDonald and Kreitman test that significantly increases the number of positively selected genes detected.
-  tags:
-    - software
