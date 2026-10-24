@@ -13,13 +13,13 @@ Ahora todas las imágenes son las de la plantilla (`images/photo.jpg`, `images/b
 
 - [ ] **Foto tuya** (retrato, idealmente cuadrada) → página de inicio y perfil
 - [ ] **Imagen de cabecera/fondo** (`images/background.jpg`), p. ej. una foto de laboratorio, de moscas, un gráfico tuyo…
-- [ ] **Imágenes para las tarjetas de inicio**: Research, Projects, CV
-- [ ] **Imágenes para los proyectos/herramientas** (opcional): URBANOMICS (mosquito), CATick (garrapata), iMKT, DEST, DrosOmics, PopHumanScan
+- [ ] **Imágenes para las tarjetas de inicio**: Research, Projects, Resources, CV
+- [ ] **Imágenes para los proyectos y recursos** (opcional): URBANOMICS (mosquito), CATick (garrapata), iMKT, DEST, DrosOmics, PopHumanScan
 - [ ] **Logo / icono** del sitio (`images/logo.svg`, `images/icon.png`), si quieres uno propio
 
 ## 2. Contacto
 
-- [ ] **Email** que quieras mostrar (¿el institucional de la UAB?):
+- [x] **Email**: he puesto `marta.coronado@uab.cat` (sacado del README de TAB). Cámbialo si prefieres otro.
 - [ ] **Despacho / dirección exacta** (edificio, despacho):
 - [ ] ¿Quieres mostrar **teléfono**? (Sí/No, cuál):
 - [ ] ¿Sigues usando **Twitter/X @geneticament**? ¿Tienes Bluesky, LinkedIn, ResearchGate…?
@@ -44,7 +44,8 @@ He redactado una bio breve en inglés a partir de tu ORCID. Revísala en `index.
 
 ## 5. CV
 
-- [ ] **Docencia**: asignaturas que impartes en la UAB (y si sigues en la UPC). Lo he deducido de tus repos de GitHub (Bioestadística UAB; Visualización de datos y Filogenómica en la UPC). ¿Qué es "TAB"?
+- [ ] **Docencia**: la pestaña Teaching muestra TAB y Bioestadística (UAB), y Data Visualization y Phylogenomics (UPC). ¿Sigues en la UPC? ¿Quito alguno o añado otras asignaturas?
+- [ ] **Licencia de los materiales docentes**: ahora tienen GPL (GPL-3.0; Data Visualization GPL-2.0), que está pensada para código. Para apuntes y diapositivas lo habitual es **Creative Commons**: CC BY 4.0 (reutilización libre citándote) o CC BY-NC-SA 4.0 (sin uso comercial y compartiendo igual). Una opción común es CC para el contenido y MIT/GPL para el código. ¿Cuál prefieres?
 - [ ] **Estancias** de investigación (p. ej. Helsinki con Isaac Salazar-Ciudad, Brighton con Adam Eyre-Walker…):
 - [ ] **Becas y premios** (FPI/FPU, Juan de la Cierva, Beatriu de Pinós, premios de tesis…):
 - [ ] **Dirección de estudiantes** (TFG, TFM, tesis):

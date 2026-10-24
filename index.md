@@ -12,7 +12,7 @@
 I am a **Lecturer in Genetics** at the [Department of Genetics and Microbiology](https://www.uab.cat/departament/genetica-microbiologia/) of the **Universitat Autònoma de Barcelona (UAB)**.
 
 I am interested in how natural populations adapt to their environment.
-My work combines **population genomics**, **transposable elements**, **epigenomics** and **multi-omics data integration**, mostly in _Drosophila melanogaster_, and more recently in other species such as mosquitoes, ticks and wild house mice.
+My work combines **population genomics**, **transposable elements**, **epigenomics** and **multi-omics data integration**, mostly in _Drosophila melanogaster_, and more recently in other species such as mosquitoes and ticks.
 
 {%
   include button.html
@@ -52,7 +52,7 @@ From the action of natural selection along the _Drosophila_ life cycle to the ep
 
 {% capture text %}
 
-Bioinformatic tools and genomic resources I have helped develop, such as iMKT, PopHumanScan, DEST and DrosOmics, together with my current research projects.
+My current research projects: the genomic basis of urban adaptation in the _Culex pipiens_ mosquito (URBANOMICS) and the genome assembly of tick species present in Catalonia (CATick).
 
 {%
   include button.html
@@ -69,9 +69,32 @@ Bioinformatic tools and genomic resources I have helped develop, such as iMKT, P
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Projects & tools"
+  title="Projects"
   flip=true
   style="bare"
+  text=text
+%}
+
+{% capture text %}
+
+Bioinformatic tools and genomic resources I have helped develop: iMKT, PopHumanScan, DEST and DrosOmics.
+
+{%
+  include button.html
+  link="resources"
+  text="Explore the resources"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="resources"
+  title="Resources"
   text=text
 %}
 
@@ -95,5 +118,7 @@ Education, research positions and teaching: from my degree in Genetics at the UA
   image="images/photo.jpg"
   link="cv"
   title="CV"
+  flip=true
+  style="bare"
   text=text
 %}

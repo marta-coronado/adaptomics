@@ -1,7 +1,7 @@
 ---
 title: CV
 nav:
-  order: 3
+  order: 5
   tooltip: Education, positions and teaching
 redirect_from:
   - team
@@ -45,14 +45,10 @@ Universitat Autònoma de Barcelona · Extraordinary Prize
 
 ## Teaching
 
-Course materials are available on [GitHub](https://github.com/marta-coronado):
-
-- Biostatistics (UAB)
-- Data visualization (UPC)
-- Phylogenomics and comparative genomics (UPC)
+Lecturer in the BSc in Genetics (UAB) and the BSc in Bioinformatics (UPC). See [Teaching](teaching) for courses and materials.
 
 {% include section.html %}
 
 ## Research projects
 
-See [Projects](projects) for the projects I lead or take part in, and [Research](research) for my publications.
+See [Projects](projects) for the projects I lead, [Resources](resources) for the tools I have helped develop, and [Research](research) for my publications.

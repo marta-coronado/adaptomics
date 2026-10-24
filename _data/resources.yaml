@@ -1,0 +1,24 @@
+- title: iMKT
+  subtitle: integrative McDonald and Kreitman test
+  image: images/photo.jpg
+  link: https://doi.org/10.1093/nar/gkz372
+  description: Web server and R package to estimate the rate of adaptive evolution and the strength of purifying selection from population genomic data.
+  repo: marta-coronado/iMKT
+
+- title: PopHumanScan
+  subtitle: catalog of human genome adaptation
+  image: images/photo.jpg
+  link: https://pophumanscan.uab.cat
+  description: An online catalog of regions of the human genome with signatures of natural selection.
+
+- title: DEST
+  subtitle: Drosophila Evolution over Space and Time
+  image: images/photo.jpg
+  link: https://dest.bio
+  description: A worldwide population genomics resource of _Drosophila melanogaster_, now expanded in DEST 2.0.
+
+- title: DrosOmics
+  subtitle: -omics browser for natural populations
+  image: images/photo.jpg
+  link: https://doi.org/10.1093/molbev/msad075
+  description: A browser to explore -omics variation across high-quality reference genomes from natural populations of _D. melanogaster_.

@@ -1,13 +1,20 @@
 ---
 title: Contact
 nav:
-  order: 5
+  order: 6
   tooltip: Email, address, and location
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
 Feel free to get in touch about research, collaborations or students interested in joining a project.
+
+{%
+  include button.html
+  type="email"
+  text="marta.coronado@uab.cat"
+  link="marta.coronado@uab.cat"
+%}
 
 {%
   include button.html

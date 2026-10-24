@@ -2,25 +2,13 @@
 title: Projects
 nav:
   order: 2
-  tooltip: Research projects, software and resources
+  tooltip: Research projects
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-flask" %}Projects
 
-Research projects I lead or take part in, and the bioinformatic tools and genomic resources I have helped develop.
-
-{% include tags.html tags="project, software, resource" %}
-
-{% include search-info.html %}
+Research projects I currently lead.
 
 {% include section.html %}
 
-## Featured
-
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
-
-{% include section.html %}
-
-## More
-
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include list.html component="card" data="projects" %}

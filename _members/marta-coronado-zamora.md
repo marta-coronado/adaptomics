@@ -9,6 +9,7 @@ aliases:
   - Marta Coronado Zamora
   - M. Coronado
 links:
+  email: marta.coronado@uab.cat
   orcid: 0000-0001-9779-9661
   github: marta-coronado
   twitter: geneticament

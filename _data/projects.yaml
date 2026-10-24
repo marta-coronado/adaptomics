@@ -1,60 +1,9 @@
-# research projects
-
 - title: URBANOMICS
   subtitle: Principal Investigator · 2026–2027
-  group: featured
   image: images/photo.jpg
   description: Dissecting the genomic basis of adaptation to urban environments in the _Culex pipiens_ mosquito.
-  tags:
-    - project
 
 - title: CATick
   subtitle: Principal Investigator · 2026–2028
-  group: featured
   image: images/photo.jpg
   description: Genome assembly of tick species present in Catalonia.
-  tags:
-    - project
-
-- title: Genomic Adaptation and Stress Responses in a Changing World
-  subtitle: Collaborator · 2025–2028
-  image: images/photo.jpg
-  description: From mechanisms to resources. Led by M. Pilar García Guerreiro (UAB).
-  tags:
-    - project
-
-# software and resources
-
-- title: iMKT
-  subtitle: integrative McDonald and Kreitman test
-  image: images/photo.jpg
-  link: https://doi.org/10.1093/nar/gkz372
-  description: Web server and R package to estimate the rate of adaptive evolution and the strength of purifying selection from population genomic data.
-  repo: marta-coronado/iMKT
-  tags:
-    - software
-
-- title: DEST
-  subtitle: Drosophila Evolution over Space and Time
-  group: featured
-  image: images/photo.jpg
-  link: https://dest.bio
-  description: A worldwide population genomics resource of _Drosophila melanogaster_, now expanded in DEST 2.0.
-  tags:
-    - resource
-
-- title: DrosOmics
-  subtitle: -omics browser for natural populations
-  image: images/photo.jpg
-  link: https://doi.org/10.1093/molbev/msad075
-  description: A browser to explore -omics variation across high-quality reference genomes from natural populations of _D. melanogaster_.
-  tags:
-    - resource
-
-- title: PopHumanScan
-  subtitle: catalog of human genome adaptation
-  image: images/photo.jpg
-  link: https://pophumanscan.uab.cat
-  description: An online catalog of regions of the human genome with signatures of natural selection.
-  tags:
-    - resource
